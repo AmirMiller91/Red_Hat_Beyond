@@ -130,3 +130,12 @@ dmypy.json
 
 # Vagrant
 .vagrant/
+
+
+# setup.sh
+#   This file did not show up as a result of runninng setup.sh;
+#   added just in case it shows up in the futue.
+nohup.out
+
+# Django
+db.sqlite3
